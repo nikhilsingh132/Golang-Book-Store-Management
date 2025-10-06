@@ -131,17 +131,32 @@ http://localhost:8001
 ### 1. Get All Books
 **Endpoint**: `GET /book/`
 
+**Screenshot**
+![Get All Books](https://github.com/user-attachments/assets/9ca8ebae-2651-4ed6-a5b3-80423a2dc5f3)
+
 ### 2. Get Book by ID
 **Endpoint**: `GET /book/{bookId}`
+
+**Screenshot**
+![Get Book by ID](https://github.com/user-attachments/assets/f062f100-9436-4d42-8b00-51075c9f21bb)
 
 ### 3. Create a New Book
 **Endpoint**: `POST /book/`
 
+**Screenshot**
+![Create a new book](https://github.com/user-attachments/assets/f814714e-2282-4f7b-a302-9a3c7f0fb399)
+
 ### 4. Update a Book
 **Endpoint**: `PUT /book/{bookId}`
 
+**Screenshot**
+![Update a Book](https://github.com/user-attachments/assets/e3a90a55-de9b-45de-a21d-d24e581e7545)
+
 ### 5. Delete a Book
 **Endpoint**: `DELETE /book/{bookId}`
+
+**Screenshot**
+![Get Book by ID](https://github.com/user-attachments/assets/dc074698-4147-40c2-8d28-f53a6d7540c5)
 
 ## 🔍 Database Schema
 
